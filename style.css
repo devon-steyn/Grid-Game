@@ -1,0 +1,43 @@
+/* I HATE CSS */
+canvas {
+    position: relative;
+    left: 28%;
+}
+body {
+    background-color: #eee;
+}
+#score_count {
+    position: relative;
+    font-family: Consolas, Helvetica, monospace;
+    font-size: 100px;
+    padding: 0px 0px;
+    margin: 0px 675px;
+}
+
+#you_win {
+    position: relative;
+    font-family: Consolas, Helvetica, monospace;
+    font-size: 40px;
+    padding: 0px 0px;
+    margin: 0px 575px;
+    color: green;
+}
+
+#you_lose {
+    position: relative;
+    font-family: Consolas, Helvetica, monospace;
+    font-size: 40px;
+    padding: 0px 0px;
+    margin: 0px 575px;
+    color: red;
+}
+
+#hit_count {
+    position: relative;
+    font-family: Consolas, Helvetica, monospace;
+    font-size: 100px;
+    padding: 0px 0px;
+    margin: -625px 450px;
+    color: red;
+}
+/* Hell yeah! No more CSS! :DDDD */
